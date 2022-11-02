@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kingcontaria.modid.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "DebugRendererMixin",
+    "EntityRenderDispatcherMixin",
+    "KeyboardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
