@@ -4,18 +4,17 @@
   "version": "${version}",
 
   "name": "No F3",
-  "description": "",
   "authors": [
     "KingContaria"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "sources": "https://github.com/KingContaria/No-F3-Mod",
+    "issues": "https://github.com/KingContaria/No-F3-Mod/issues"
   },
 
   "license": "MIT",
 
-  "environment": "*",
+  "environment": "client",
   "mixins": [
     "nof3.mixins.json"
   ],

@@ -6,7 +6,8 @@
   "client": [
     "DebugRendererMixin",
     "EntityRenderDispatcherMixin",
-    "KeyboardMixin"
+    "KeyboardMixin",
+    "ToolTipContextMixin"
   ],
   "injectors": {
     "defaultRequire": 1

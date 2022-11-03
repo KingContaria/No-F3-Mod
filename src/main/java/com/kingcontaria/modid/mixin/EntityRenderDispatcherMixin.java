@@ -9,7 +9,7 @@ public class EntityRenderDispatcherMixin {
 
     /**
      * @author KingContaria
-     * @reason disable chunk hitbox toggling bc of standardsettings
+     * @reason disable hitbox toggling bc of standardsettings
      */
     @Overwrite
     public void setRenderHitboxes(boolean value) {
